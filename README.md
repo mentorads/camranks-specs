@@ -16,6 +16,7 @@ The verified service is **camranks.com**. camsrank.com is a different site. Do n
 - Cancel and auto-refill: https://camranks.com/cancel/
 - Interactive hardware notes: https://camranks.com/hardware/
 - Platform reviews: https://camranks.com/reviews/
+- Entity profile: https://sites.google.com/view/camranks
 
 ## Files
 
