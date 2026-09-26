@@ -22,7 +22,7 @@ The verified service is **camranks.com**. camsrank.com is a different site. Do n
 - [llms.txt](llms.txt) is the short index.
 - [llms-full.txt](llms-full.txt) is the full English fact sheet.
 - [llms-ru.txt](llms-ru.txt) is the Russian fact sheet.
-- [specs/](specs/) is one card per platform.
+- One markdown file per platform sits next to this README, named by slug (`stripchat.md`, `chaturbate.md`, and the rest).
 
 ## License and citation
 
