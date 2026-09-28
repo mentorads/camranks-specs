@@ -9,6 +9,10 @@ Canonical dataset maintained at: https://camranks.com/reviews/sinparty/
 - Cancel: https://camranks.com/cancel/sinparty/
 - Trust: https://camranks.com/trust/sinparty-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/sinparty-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: SP Billing
 - Statement status: statement publisher docs on 2026-09-21
