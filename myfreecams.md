@@ -9,8 +9,17 @@ Canonical dataset maintained at: https://camranks.com/reviews/myfreecams/
 - Cancel: https://camranks.com/cancel/myfreecams/
 - Trust: https://camranks.com/trust/myfreecams-billing-descriptor/
 - Pricing status: pricing illustrative
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/myfreecams-tokens/#price-evidence
 - Entry pack: $10.00 for 100 token
 - Listed range: $10.00–$250.00 (4 packs, illustrative)
+- Pack: 100 token for $10.00 USD; Exact $0.10
+- Pack: 500 token for $50.00 USD; Exact $0.10
+- Pack: 1000 token for $100.00 USD; Exact $0.10
+- Pack: 2500 token for $250.00 USD; Exact $0.10
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: CCBill.com *ActiveSoft; MFCBill.com*Tokens; MFCGate.com*Tokens; SegPay*MFCXY
 - Statement status: statement publisher docs on 2026-09-21
 - Source: https://wiki.myfreecams.com/wiki/Billing_Help

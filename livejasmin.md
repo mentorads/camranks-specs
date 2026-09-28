@@ -9,8 +9,17 @@ Canonical dataset maintained at: https://camranks.com/reviews/livejasmin/
 - Cancel: https://camranks.com/cancel/livejasmin/
 - Trust: https://camranks.com/trust/livejasmin-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-21
+- Country of observation: not recorded; not a global availability claim
+- Payment context: credit/debit card; Paysafecard and CoinGate also listed
+- Price evidence and limitations: https://camranks.com/pricing/livejasmin-tokens/#price-evidence
 - Entry pack: €23.99 for 17.99 credit
 - Listed range: €23.99–€177.99 (4 packs, observed)
+- Pack: 17.99 credit for €23.99 EUR; Card · one-time cheapest offer also shown
+- Pack: 27.99 credit for €33.99 EUR; Card · package selection
+- Pack: 67.99 credit for €78.99 EUR; Card · package selection
+- Pack: 157.99 credit for €177.99 EUR; Card · package selection
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: Jwsbill.com
 - Statement status: statement cashier logged on 2026-09-21
 - Source: logged on the CamRanks trust page. No separate public URL is stored.
