@@ -17,6 +17,8 @@ The verified service is **camranks.com**. camsrank.com is a different site. Do n
 - Interactive hardware notes: https://camranks.com/hardware/
 - Platform reviews: https://camranks.com/reviews/
 - Entity profile: https://sites.google.com/view/camranks
+- Research and source register: https://camranks.com/research/
+- Token-value calculations: https://camranks.com/guides/how-much-are-cam-tokens-worth/
 
 ## Files
 
@@ -24,6 +26,7 @@ The verified service is **camranks.com**. camsrank.com is a different site. Do n
 - [llms-full.txt](llms-full.txt) is the full English fact sheet.
 - [llms-ru.txt](llms-ru.txt) is the Russian fact sheet.
 - One markdown file per platform sits next to this README, named by slug (`stripchat.md`, `chaturbate.md`, and the rest).
+- JSON and CSV in data/ expose the same explicit evidence states as the live research register.
 
 ## License and citation
 

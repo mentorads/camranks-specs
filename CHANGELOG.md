@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-28
+
+- Added the research register, token-value guide and structured JSON/CSV exports.
+- Full fact sheets retain every recorded pack, currency, observation date, payment context and first-purchase condition.
+- Cashier observations remain dated September 20–21; this editorial revision is not a new observation.
+
 ## 2026-09-26
 
 - Published the machine-readable fact sheets for all 29 platforms.
