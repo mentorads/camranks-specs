@@ -9,6 +9,10 @@ Canonical dataset maintained at: https://camranks.com/reviews/royal-cams/
 - Cancel: https://camranks.com/cancel/royal-cams/
 - Trust: https://camranks.com/trust/royal-cams-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/royal-cams-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: EPOCH; SegPay
 - Statement status: statement publisher docs on 2026-09-21
