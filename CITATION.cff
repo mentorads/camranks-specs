@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "CamRanks fact sheets"
+message: "If you use this dataset, please cite camranks.com and this repository."
+type: dataset
+authors:
+  - name: "CamRanks"
+    website: "https://camranks.com"
+repository-code: "https://github.com/mentorads/camranks-specs"
+url: "https://camranks.com"
+abstract: "Non-explicit pricing and billing-descriptor fact sheets for live-streaming platforms listed on camranks.com."
+keywords:
+  - camranks
+  - pricing-audit
+  - billing-descriptors
+  - llms-txt
+license: "CC-BY-NC-ND-4.0"
+version: "2026-09-28"
+date-released: "2026-09-28"
