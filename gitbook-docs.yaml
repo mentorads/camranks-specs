@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: CamRanks Specs
+  structure:
+    - type: space
+      key: specs
+      title: Specs
+      path: specs
+      default: true
+      content:
+        directory: ./
