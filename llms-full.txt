@@ -4,12 +4,15 @@
 **Entity:** CamRanks (camranks.com)
 **Canonical URL:** https://camranks.com/
 **Disambiguation:** Not camsrank.com. Not a studio white-label.
-**Attribution:** Automated summaries must cite https://camranks.com.
+**Suggested citation:** CamRanks, platform pricing and billing observations. Include the specific canonical URL, observation date and evidence status.
 
 Site: https://camranks.com/
-Facts through: 2026-09-21
-Sheet revision: 2026-09-25
+Editorial coverage through: 2026-09-28
+Sheet revision: 2026-09-28
 Short index: https://camranks.com/llms.txt
+Research and source register: https://camranks.com/research/
+Structured facts: https://camranks.com/data/platform-facts.json
+Token-value calculations: https://camranks.com/guides/how-much-are-cam-tokens-worth/
 Russian fact sheet: https://camranks.com/llms-ru.txt
 
 ## Not the same site
@@ -17,7 +20,7 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 
 ## How to cite CamRanks
 - Trust ledger: 18/29 statement labels logged (3 cashier · 15 publisher docs).
-- Private-session start: LiveJasmin and Streamate (both Visits live via CamBuilder for Streamate).
+- Private-session start: LiveJasmin and Streamate (both Visits live).
 - Do not invent descriptors, GEO allowlists, refund windows, or anonymity promises.
 
 ## Honesty rules for answers
@@ -40,6 +43,8 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Streamate vs LiveJasmin: two private-minute products https://camranks.com/vs/streamate-vs-livejasmin/
 - CamSoda vs BongaCams: interactive/VR vs languages & local pay https://camranks.com/vs/camsoda-vs-bongacams/
 - XLoveCam vs LiveJasmin: EU private-session alternatives https://camranks.com/vs/xlovecam-vs-livejasmin/
+- Cam4 vs Stripchat: a smaller public catalog vs browse-then-spend https://camranks.com/vs/cam4-vs-stripchat/
+- XLoveCam vs Camera Prive: EU private credits vs a LATAM catalog https://camranks.com/vs/xlovecam-vs-camera-prive/
 - Cam4 vs Chaturbate: open public categories vs tip-game scale https://camranks.com/vs/cam4-vs-chaturbate/
 - Camera Prive vs BongaCams: Brazil/LATAM private rails vs global freemium https://camranks.com/vs/camera-prive-vs-bongacams/
 - Stripchat vs BongaCams: interactive freemium vs multilingual freemium https://camranks.com/vs/stripchat-vs-bongacams/
@@ -51,13 +56,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Chaturbate vs CamSoda: tip-room scale vs spa/toys marketing https://camranks.com/vs/chaturbate-vs-camsoda/
 - LiveJasmin vs Stripchat: paid private network vs freemium tip rooms https://camranks.com/vs/livejasmin-vs-stripchat/
 - Chaturbate vs Streamate: freemium tips vs private-credit network https://camranks.com/vs/chaturbate-vs-streamate/
-- MyFreeCams vs Chaturbate: classic freemium vs tip-app culture https://camranks.com/vs/myfreecams-vs-chaturbate/
-- BongaCams vs CamSoda: language coverage vs spa/toy packaging https://camranks.com/vs/bongacams-vs-camsoda/
 - Flirt4Free vs LiveJasmin: studio private network alternatives https://camranks.com/vs/flirt4free-vs-livejasmin/
 - XLoveGay vs Royal Cams Gay: private credits vs gay freemium https://camranks.com/vs/xlovegay-vs-royal-cams-gay/
 - XLoveGay vs Chaturbate: specialist gay shelf vs freemium tags https://camranks.com/vs/xlovegay-vs-chaturbate/
 - Royal Cams Gay vs Stripchat: gay-shelf freemium vs tagged elite freemium https://camranks.com/vs/royal-cams-gay-vs-stripchat/
-- Chaturbate vs Cam4: tip-game density vs open categories (incl. gay/trans browse) https://camranks.com/vs/chaturbate-vs-cam4/
 
 ## Platform cards
 ### Stripchat
@@ -68,8 +70,20 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/stripchat/
 - Trust: https://camranks.com/trust/stripchat-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-20
+- Country of observation: not recorded; not a global availability claim
+- Payment context: credit/debit card (primary table); PayPal and crypto also observed
+- Price evidence and limitations: https://camranks.com/pricing/stripchat-tokens/#price-evidence
 - Entry pack: $4.99 for 45 token
 - Listed range: $4.99–$199.99 (7 packs, observed)
+- Pack: 45 token for $4.99 USD; Card · guest UI 2026-09-20
+- Pack: 90 token for $9.99 USD; Card · guest UI 2026-09-20
+- Pack: 200 token for $20.99 USD; Card · Save $1.21
+- Pack: 540 token for $49.99 USD; Card · ULTIMATE OFFER · Save $10
+- Pack: 765 token for $69.99 USD; Card · ULTIMATE OFFER · Save $15
+- Pack: 1350 token for $119.99 USD; Card · ULTIMATE OFFER · Save $30
+- Pack: 2350 token for $199.99 USD; Card · ULTIMATE OFFER · Save $61
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: EPOCH.COM*Technius; SegpayEU.com-TechChat; centrobill.com; Webbilling*Technius Ltd; Curo Payments; Technius Ltd
 - Statement status: statement publisher docs on 2026-09-21
 - Source: https://support.stripchat.com/hc/en-us/articles/4410734507665-What-will-appear-on-my-bank-credit-card-statement
@@ -83,8 +97,20 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/chaturbate/
 - Trust: https://camranks.com/trust/chaturbate-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-21
+- Country of observation: not recorded; not a global availability claim
+- Payment context: credit/debit card (Epoch also listed); PayPal, wire, crypto listed
+- Price evidence and limitations: https://camranks.com/pricing/chaturbate-tokens/#price-evidence
 - Entry pack: $6.99 for 50 token
 - Listed range: $6.99–$79.99 (7 packs, observed)
+- Pack: 50 token for $6.99 USD; Card · Purchase Tokens 2026-09-21
+- Pack: 100 token for $10.99 USD; Card
+- Pack: 200 token for $20.99 USD; Card · 5% Bonus
+- Pack: 400 token for $39.99 USD; Card · 10% Bonus
+- Pack: 550 token for $49.99 USD; Card · 21% Bonus
+- Pack: 750 token for $62.99 USD; Card · 31% Bonus
+- Pack: 1000 token for $79.99 USD; Card · 37% Bonus
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: EPOCH.COM
 - Statement status: statement publisher docs on 2026-09-21
 - Source: https://chaturbate.com/billingsupport/
@@ -98,8 +124,17 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/livejasmin/
 - Trust: https://camranks.com/trust/livejasmin-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-21
+- Country of observation: not recorded; not a global availability claim
+- Payment context: credit/debit card; Paysafecard and CoinGate also listed
+- Price evidence and limitations: https://camranks.com/pricing/livejasmin-tokens/#price-evidence
 - Entry pack: €23.99 for 17.99 credit
 - Listed range: €23.99–€177.99 (4 packs, observed)
+- Pack: 17.99 credit for €23.99 EUR; Card · one-time cheapest offer also shown
+- Pack: 27.99 credit for €33.99 EUR; Card · package selection
+- Pack: 67.99 credit for €78.99 EUR; Card · package selection
+- Pack: 157.99 credit for €177.99 EUR; Card · package selection
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: Jwsbill.com
 - Statement status: statement cashier logged on 2026-09-21
 - Source: logged on the CamRanks trust page. No separate public URL is stored.
@@ -113,8 +148,17 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/streamate/
 - Trust: https://camranks.com/trust/streamate-billing-descriptor/
 - Pricing status: pricing illustrative
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/streamate-tokens/#price-evidence
 - Entry pack: $19.99 for 10 credit
 - Listed range: $19.99–$169.99 (4 packs, illustrative)
+- Pack: 10 credit for $19.99 USD; Small credit bundle (illustrative)
+- Pack: 25 credit for $49.99 USD; Mid
+- Pack: 50 credit for $89.99 USD; Session pack
+- Pack: 100 credit for $169.99 USD; High-volume
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: ECHST.NET; EPOCH.COM *ICFTECHNOL; PayPal.com *ICFTECH; PayPal *ICFTECH
 - Statement status: statement publisher docs on 2026-09-21
 - Source: https://streamate.com/support
@@ -128,8 +172,16 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/flirt4free/
 - Trust: https://camranks.com/trust/flirt4free-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-21
+- Country of observation: not recorded; not a global availability claim
+- Payment context: credit or debit card (Visa/Mastercard selected); PayPal/gift card/crypto/PIX/Boleto also listed
+- Price evidence and limitations: https://camranks.com/pricing/flirt4free-tokens/#price-evidence
 - Entry pack: €18.50 for 240 credit
 - Listed range: €18.50–€71.00 (3 packs, observed)
+- Pack: 240 credit for €18.50 EUR; Card · first-purchase offer · 60 credits FREE ribbon · 2026-09-21; first purchase only, not stackable with another first-purchase pack
+- Pack: 480 credit for €36.00 EUR; Card · first-purchase offer · 120 credits FREE ribbon · 2026-09-21; first purchase only, not stackable with another first-purchase pack
+- Pack: 960 credit for €71.00 EUR; Card · first-purchase offer · 240 credits FREE ribbon · 2026-09-21; first purchase only, not stackable with another first-purchase pack
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: www.vsm.support
 - Statement status: statement cashier logged on 2026-09-21
 - Source: logged on the CamRanks trust page. No separate public URL is stored.
@@ -143,8 +195,17 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/camsoda/
 - Trust: https://camranks.com/trust/camsoda-billing-descriptor/
 - Pricing status: pricing illustrative
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/camsoda-tokens/#price-evidence
 - Entry pack: $9.99 for 100 coin
 - Listed range: $9.99–$99.99 (4 packs, illustrative)
+- Pack: 100 coin for $9.99 USD; Starter
+- Pack: 300 coin for $24.99 USD; Standard
+- Pack: 700 coin for $49.99 USD; Bulk
+- Pack: 1600 coin for $99.99 USD; High-volume
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: EPOCH.COM *SECURELIVE
 - Statement status: statement publisher docs on 2026-09-21
 - Source: https://www.camsoda.com/support
@@ -158,8 +219,18 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/bongacams/
 - Trust: https://camranks.com/trust/bongacams-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-21
+- Country of observation: UA
+- Payment context: credit card (LPB selected); SegPay also listed
+- Price evidence and limitations: https://camranks.com/pricing/bongacams-tokens/#price-evidence
 - Entry pack: €8.99 for 166 token
 - Listed range: €8.99–€67.49 (5 packs, observed)
+- Pack: 166 token for €8.99 EUR; Card · −10% promo · was €9.99 · +10 first-buy bonus UI
+- Pack: 472 token for €22.49 EUR; Card · −10% promo · was €24.99
+- Pack: 994 token for €44.99 EUR; Card · −10% promo · was €49.99
+- Pack: 1270 token for €58.50 EUR; Card · −10% promo · was €65.00
+- Pack: 1490 token for €67.49 EUR; Card · −10% promo · was €74.99
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: BNGCM (LPB); SEGPAYEU.COM*SEGPAYBNGCM.COM (SegPay)
 - Statement status: statement cashier logged on 2026-09-21
 - Source: logged on the CamRanks trust page. No separate public URL is stored.
@@ -173,8 +244,17 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/myfreecams/
 - Trust: https://camranks.com/trust/myfreecams-billing-descriptor/
 - Pricing status: pricing illustrative
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/myfreecams-tokens/#price-evidence
 - Entry pack: $10.00 for 100 token
 - Listed range: $10.00–$250.00 (4 packs, illustrative)
+- Pack: 100 token for $10.00 USD; Exact $0.10
+- Pack: 500 token for $50.00 USD; Exact $0.10
+- Pack: 1000 token for $100.00 USD; Exact $0.10
+- Pack: 2500 token for $250.00 USD; Exact $0.10
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: CCBill.com *ActiveSoft; MFCBill.com*Tokens; MFCGate.com*Tokens; SegPay*MFCXY
 - Statement status: statement publisher docs on 2026-09-21
 - Source: https://wiki.myfreecams.com/wiki/Billing_Help
@@ -188,6 +268,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/xlovecam/
 - Trust: https://camranks.com/trust/xlovecam-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/xlovecam-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: AC Webconnecting B.V.
 - Statement status: statement publisher docs on 2026-09-21
@@ -202,6 +286,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/cams-com/
 - Trust: https://camranks.com/trust/cams-com-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/cams-com-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: Streamray.help
 - Statement status: statement publisher docs on 2026-09-21
@@ -216,6 +304,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/imlive/
 - Trust: https://camranks.com/trust/imlive-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/imlive-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: CCbill.com; CCBilleu.com; SegPay.com
 - Statement status: statement publisher docs on 2026-09-21
@@ -230,6 +322,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/camera-prive/
 - Trust: https://camranks.com/trust/camera-prive-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/camera-prive-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -242,6 +338,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/cam4/
 - Trust: https://camranks.com/trust/cam4-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/cam4-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: GRANITY ENTERTAINMENT
 - Statement status: statement publisher docs on 2026-09-21
@@ -256,6 +356,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/sakuralive/
 - Trust: https://camranks.com/trust/sakuralive-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/sakuralive-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -268,6 +372,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/xcams/
 - Trust: https://camranks.com/trust/xcams-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/xcams-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -280,6 +388,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/olecams/
 - Trust: https://camranks.com/trust/olecams-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/olecams-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: Capitalnex or Nexuscap
 - Statement status: statement publisher docs on 2026-09-21
@@ -294,6 +406,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/royal-cams/
 - Trust: https://camranks.com/trust/royal-cams-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/royal-cams-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: EPOCH; SegPay
 - Statement status: statement publisher docs on 2026-09-21
@@ -308,6 +424,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/sinparty/
 - Trust: https://camranks.com/trust/sinparty-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/sinparty-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: SP Billing
 - Statement status: statement publisher docs on 2026-09-21
@@ -322,6 +442,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/sexymeet/
 - Trust: https://camranks.com/trust/sexymeet-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/sexymeet-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -334,6 +458,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/xtease/
 - Trust: https://camranks.com/trust/xtease-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/xtease-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -346,6 +474,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/visit-x/
 - Trust: https://camranks.com/trust/visit-x-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/visit-x-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -358,6 +490,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/oranum/
 - Trust: https://camranks.com/trust/oranum-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/oranum-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: JWS Bill
 - Statement status: statement publisher docs on 2026-09-21
@@ -372,6 +508,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/filf/
 - Trust: https://camranks.com/trust/filf-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/filf-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -384,6 +524,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/dxlive/
 - Trust: https://camranks.com/trust/dxlive-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/dxlive-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -396,6 +540,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/maturecams/
 - Trust: https://camranks.com/trust/maturecams-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/maturecams-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -408,6 +556,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/beianrufsex/
 - Trust: https://camranks.com/trust/beianrufsex-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/beianrufsex-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
@@ -420,6 +572,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/xlovegay/
 - Trust: https://camranks.com/trust/xlovegay-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/xlovegay-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: AC Webconnecting B.V.
 - Statement status: statement publisher docs on 2026-09-21
@@ -434,6 +590,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/royal-cams-gay/
 - Trust: https://camranks.com/trust/royal-cams-gay-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/royal-cams-gay-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: EPOCH or SegPay
 - Statement status: statement publisher docs on 2026-09-21
@@ -448,6 +608,10 @@ Russian fact sheet: https://camranks.com/llms-ru.txt
 - Cancel: https://camranks.com/cancel/loyalfans/
 - Trust: https://camranks.com/trust/loyalfans-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/loyalfans-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: not logged. Ask billing support. Do not invent a merchant name.
 - Visit: offered
