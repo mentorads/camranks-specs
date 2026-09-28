@@ -9,6 +9,10 @@ Canonical dataset maintained at: https://camranks.com/reviews/xlovegay/
 - Cancel: https://camranks.com/cancel/xlovegay/
 - Trust: https://camranks.com/trust/xlovegay-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/xlovegay-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: AC Webconnecting B.V.
 - Statement status: statement publisher docs on 2026-09-21
