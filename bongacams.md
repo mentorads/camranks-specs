@@ -9,8 +9,18 @@ Canonical dataset maintained at: https://camranks.com/reviews/bongacams/
 - Cancel: https://camranks.com/cancel/bongacams/
 - Trust: https://camranks.com/trust/bongacams-billing-descriptor/
 - Pricing status: pricing observed
+- Price observation date: 2026-09-21
+- Country of observation: UA
+- Payment context: credit card (LPB selected); SegPay also listed
+- Price evidence and limitations: https://camranks.com/pricing/bongacams-tokens/#price-evidence
 - Entry pack: €8.99 for 166 token
 - Listed range: €8.99–€67.49 (5 packs, observed)
+- Pack: 166 token for €8.99 EUR; Card · −10% promo · was €9.99 · +10 first-buy bonus UI
+- Pack: 472 token for €22.49 EUR; Card · −10% promo · was €24.99
+- Pack: 994 token for €44.99 EUR; Card · −10% promo · was €49.99
+- Pack: 1270 token for €58.50 EUR; Card · −10% promo · was €65.00
+- Pack: 1490 token for €67.49 EUR; Card · −10% promo · was €74.99
+- Listed pack values are consumer purchase prices, not performer payouts or live quotes. Whole-pack purchases and eligibility apply.
 - Statement: BNGCM (LPB); SEGPAYEU.COM*SEGPAYBNGCM.COM (SegPay)
 - Statement status: statement cashier logged on 2026-09-21
 - Source: logged on the CamRanks trust page. No separate public URL is stored.

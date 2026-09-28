@@ -9,6 +9,10 @@ Canonical dataset maintained at: https://camranks.com/reviews/cams-com/
 - Cancel: https://camranks.com/cancel/cams-com/
 - Trust: https://camranks.com/trust/cams-com-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/cams-com-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: Streamray.help
 - Statement status: statement publisher docs on 2026-09-21

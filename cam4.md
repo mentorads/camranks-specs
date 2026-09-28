@@ -9,6 +9,10 @@ Canonical dataset maintained at: https://camranks.com/reviews/cam4/
 - Cancel: https://camranks.com/cancel/cam4/
 - Trust: https://camranks.com/trust/cam4-billing-descriptor/
 - Pricing status: pricing not logged
+- Price observation date: not recorded
+- Country of observation: not recorded; not a global availability claim
+- Payment context: not recorded
+- Price evidence and limitations: https://camranks.com/pricing/cam4-tokens/#price-evidence
 - Entry pack: not logged. Do not invent a price.
 - Statement: GRANITY ENTERTAINMENT
 - Statement status: statement publisher docs on 2026-09-21
