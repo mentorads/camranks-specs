@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 1,
+  "revision": "2026-09-28",
+  "canonicalUrl": "https://camranks.com/research/",
+  "publisher": "CamRanks",
+  "methodologyUrl": "https://camranks.com/methodology/",
+  "scope": "Listed consumer purchase prices, not performer payouts or live quotes. USD and EUR are separate. Units cannot be transferred between platforms.",
+  "limitations": "Cashier UI observations do not establish a completed payment. A null country is unknown, not worldwide availability. Offers, fees and eligibility must be confirmed at checkout. Illustrative packs are excluded from observed-price comparisons.",
+  "priceObservationRange": {
+    "from": "2026-09-20",
+    "through": "2026-09-21"
+  },
+  "coverage": {
+    "platforms": 29,
+    "observedPrices": 5,
+    "illustrativePrices": 3,
+    "missingPrices": 21,
+    "loggedDescriptors": 18
+  },
+  "platforms": [
+    {
+      "slug": "stripchat",
+      "name": "Stripchat",
+      "format": "Freemium / Interactive Token",
+      "reviewUrl": "https://camranks.com/reviews/stripchat/",
+      "pricing": {
+        "status": "observed",
+        "observedAt": "2026-09-20",
+        "country": null,
+        "paymentMethod": "credit/debit card (primary table); PayPal and crypto also observed",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/stripchat-tokens/#price-evidence",
+        "unit": "token",
+        "currency": "USD",
+        "packs": [
+          {
+            "quantity": 45,
+            "amount": 4.99,
+            "currency": "USD",
+            "note": "Card · guest UI 2026-09-20",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 90,
+            "amount": 9.99,
+            "currency": "USD",
+            "note": "Card · guest UI 2026-09-20",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 200,
+            "amount": 20.99,
+            "currency": "USD",
+            "note": "Card · Save $1.21",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 540,
+            "amount": 49.99,
+            "currency": "USD",
+            "note": "Card · ULTIMATE OFFER · Save $10",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 765,
+            "amount": 69.99,
+            "currency": "USD",
+            "note": "Card · ULTIMATE OFFER · Save $15",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 1350,
+            "amount": 119.99,
+            "currency": "USD",
+            "note": "Card · ULTIMATE OFFER · Save $30",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 2350,
+            "amount": 199.99,
+            "currency": "USD",
+            "note": "Card · ULTIMATE OFFER · Save $61",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "EPOCH.COM*Technius; SegpayEU.com-TechChat; centrobill.com; Webbilling*Technius Ltd; Curo Payments; Technius Ltd",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://support.stripchat.com/hc/en-us/articles/4410734507665-What-will-appear-on-my-bank-credit-card-statement",
+        "evidenceUrl": "https://camranks.com/trust/stripchat-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "chaturbate",
+      "name": "Chaturbate",
+      "format": "Freemium Community Hub",
+      "reviewUrl": "https://camranks.com/reviews/chaturbate/",
+      "pricing": {
+        "status": "observed",
+        "observedAt": "2026-09-21",
+        "country": null,
+        "paymentMethod": "credit/debit card (Epoch also listed); PayPal, wire, crypto listed",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/chaturbate-tokens/#price-evidence",
+        "unit": "token",
+        "currency": "USD",
+        "packs": [
+          {
+            "quantity": 50,
+            "amount": 6.99,
+            "currency": "USD",
+            "note": "Card · Purchase Tokens 2026-09-21",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 100,
+            "amount": 10.99,
+            "currency": "USD",
+            "note": "Card",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 200,
+            "amount": 20.99,
+            "currency": "USD",
+            "note": "Card · 5% Bonus",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 400,
+            "amount": 39.99,
+            "currency": "USD",
+            "note": "Card · 10% Bonus",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 550,
+            "amount": 49.99,
+            "currency": "USD",
+            "note": "Card · 21% Bonus",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 750,
+            "amount": 62.99,
+            "currency": "USD",
+            "note": "Card · 31% Bonus",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 1000,
+            "amount": 79.99,
+            "currency": "USD",
+            "note": "Card · 37% Bonus",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "EPOCH.COM",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://chaturbate.com/billingsupport/",
+        "evidenceUrl": "https://camranks.com/trust/chaturbate-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "streamate",
+      "name": "Streamate",
+      "format": "Premium Private (Pay-Per-Minute)",
+      "reviewUrl": "https://camranks.com/reviews/streamate/",
+      "pricing": {
+        "status": "illustrative",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/streamate-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": "USD",
+        "packs": [
+          {
+            "quantity": 10,
+            "amount": 19.99,
+            "currency": "USD",
+            "note": "Small credit bundle (illustrative)",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 25,
+            "amount": 49.99,
+            "currency": "USD",
+            "note": "Mid",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 50,
+            "amount": 89.99,
+            "currency": "USD",
+            "note": "Session pack",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 100,
+            "amount": 169.99,
+            "currency": "USD",
+            "note": "High-volume",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "ECHST.NET; EPOCH.COM *ICFTECHNOL; PayPal.com *ICFTECH; PayPal *ICFTECH",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://streamate.com/support",
+        "evidenceUrl": "https://camranks.com/trust/streamate-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "livejasmin",
+      "name": "LiveJasmin",
+      "format": "Luxury Private & Exclusive Video",
+      "reviewUrl": "https://camranks.com/reviews/livejasmin/",
+      "pricing": {
+        "status": "observed",
+        "observedAt": "2026-09-21",
+        "country": null,
+        "paymentMethod": "credit/debit card; Paysafecard and CoinGate also listed",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/livejasmin-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": "EUR",
+        "packs": [
+          {
+            "quantity": 17.99,
+            "amount": 23.99,
+            "currency": "EUR",
+            "note": "Card · one-time cheapest offer also shown",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 27.99,
+            "amount": 33.99,
+            "currency": "EUR",
+            "note": "Card · package selection",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 67.99,
+            "amount": 78.99,
+            "currency": "EUR",
+            "note": "Card · package selection",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 157.99,
+            "amount": 177.99,
+            "currency": "EUR",
+            "note": "Card · package selection",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "verified",
+        "descriptor": "Jwsbill.com",
+        "observedAt": "2026-09-21",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/livejasmin-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "flirt4free",
+      "name": "Flirt4Free",
+      "format": "Hybrid Tip & Private Video",
+      "reviewUrl": "https://camranks.com/reviews/flirt4free/",
+      "pricing": {
+        "status": "observed",
+        "observedAt": "2026-09-21",
+        "country": null,
+        "paymentMethod": "credit or debit card (Visa/Mastercard selected); PayPal/gift card/crypto/PIX/Boleto also listed",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/flirt4free-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": "EUR",
+        "packs": [
+          {
+            "quantity": 240,
+            "amount": 18.5,
+            "currency": "EUR",
+            "note": "Card · first-purchase offer · 60 credits FREE ribbon · 2026-09-21",
+            "firstPurchaseOnly": true,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 480,
+            "amount": 36,
+            "currency": "EUR",
+            "note": "Card · first-purchase offer · 120 credits FREE ribbon · 2026-09-21",
+            "firstPurchaseOnly": true,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 960,
+            "amount": 71,
+            "currency": "EUR",
+            "note": "Card · first-purchase offer · 240 credits FREE ribbon · 2026-09-21",
+            "firstPurchaseOnly": true,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "verified",
+        "descriptor": "www.vsm.support",
+        "observedAt": "2026-09-21",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/flirt4free-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "camsoda",
+      "name": "CamSoda",
+      "format": "Interactive Tech & VR Pioneer",
+      "reviewUrl": "https://camranks.com/reviews/camsoda/",
+      "pricing": {
+        "status": "illustrative",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/camsoda-tokens/#price-evidence",
+        "unit": "coin",
+        "currency": "USD",
+        "packs": [
+          {
+            "quantity": 100,
+            "amount": 9.99,
+            "currency": "USD",
+            "note": "Starter",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 300,
+            "amount": 24.99,
+            "currency": "USD",
+            "note": "Standard",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 700,
+            "amount": 49.99,
+            "currency": "USD",
+            "note": "Bulk",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 1600,
+            "amount": 99.99,
+            "currency": "USD",
+            "note": "High-volume",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "EPOCH.COM *SECURELIVE",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://www.camsoda.com/support",
+        "evidenceUrl": "https://camranks.com/trust/camsoda-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "bongacams",
+      "name": "BongaCams",
+      "format": "Global Multilingual Freemium",
+      "reviewUrl": "https://camranks.com/reviews/bongacams/",
+      "pricing": {
+        "status": "observed",
+        "observedAt": "2026-09-21",
+        "country": "UA",
+        "paymentMethod": "credit card (LPB selected); SegPay also listed",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/bongacams-tokens/#price-evidence",
+        "unit": "token",
+        "currency": "EUR",
+        "packs": [
+          {
+            "quantity": 166,
+            "amount": 8.99,
+            "currency": "EUR",
+            "note": "Card · −10% promo · was €9.99 · +10 first-buy bonus UI",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 472,
+            "amount": 22.49,
+            "currency": "EUR",
+            "note": "Card · −10% promo · was €24.99",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 994,
+            "amount": 44.99,
+            "currency": "EUR",
+            "note": "Card · −10% promo · was €49.99",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 1270,
+            "amount": 58.5,
+            "currency": "EUR",
+            "note": "Card · −10% promo · was €65.00",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 1490,
+            "amount": 67.49,
+            "currency": "EUR",
+            "note": "Card · −10% promo · was €74.99",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "verified",
+        "descriptor": "BNGCM (LPB); SEGPAYEU.COM*SEGPAYBNGCM.COM (SegPay)",
+        "observedAt": "2026-09-21",
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/bongacams-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "myfreecams",
+      "name": "MyFreeCams",
+      "format": "Classic Member Community",
+      "reviewUrl": "https://camranks.com/reviews/myfreecams/",
+      "pricing": {
+        "status": "illustrative",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/myfreecams-tokens/#price-evidence",
+        "unit": "token",
+        "currency": "USD",
+        "packs": [
+          {
+            "quantity": 100,
+            "amount": 10,
+            "currency": "USD",
+            "note": "Exact $0.10",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 500,
+            "amount": 50,
+            "currency": "USD",
+            "note": "Exact $0.10",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 1000,
+            "amount": 100,
+            "currency": "USD",
+            "note": "Exact $0.10",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          },
+          {
+            "quantity": 2500,
+            "amount": 250,
+            "currency": "USD",
+            "note": "Exact $0.10",
+            "firstPurchaseOnly": false,
+            "maxPurchases": null
+          }
+        ]
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "CCBill.com *ActiveSoft; MFCBill.com*Tokens; MFCGate.com*Tokens; SegPay*MFCXY",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://wiki.myfreecams.com/wiki/Billing_Help",
+        "evidenceUrl": "https://camranks.com/trust/myfreecams-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "xlovecam",
+      "name": "XLoveCam",
+      "format": "European Premium Private",
+      "reviewUrl": "https://camranks.com/reviews/xlovecam/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/xlovecam-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "AC Webconnecting B.V.",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://www.xlovecam.com/en/credit/",
+        "evidenceUrl": "https://camranks.com/trust/xlovecam-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "cams-com",
+      "name": "Cams.com",
+      "format": "Premium Pay-Per-Minute",
+      "reviewUrl": "https://camranks.com/reviews/cams-com/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/cams-com-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "Streamray.help",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://classic.cams.com/go/page/streamray_support.html",
+        "evidenceUrl": "https://camranks.com/trust/cams-com-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "imlive",
+      "name": "IMLive",
+      "format": "Hybrid Credits & Private",
+      "reviewUrl": "https://camranks.com/reviews/imlive/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/imlive-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "CCbill.com; CCBilleu.com; SegPay.com",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://imlive.com/disclaimer.aspx",
+        "evidenceUrl": "https://camranks.com/trust/imlive-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "camera-prive",
+      "name": "Camera Prive",
+      "format": "LATAM Private & Fan Club",
+      "reviewUrl": "https://camranks.com/reviews/camera-prive/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/camera-prive-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/camera-prive-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "cam4",
+      "name": "Cam4",
+      "format": "Freemium Explicit Public",
+      "reviewUrl": "https://camranks.com/reviews/cam4/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/cam4-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "GRANITY ENTERTAINMENT",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://support.cam4.com/en-us/article/255-billing-support",
+        "evidenceUrl": "https://camranks.com/trust/cam4-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "sakuralive",
+      "name": "SakuraLive",
+      "format": "Japan-focused Premium",
+      "reviewUrl": "https://camranks.com/reviews/sakuralive/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/sakuralive-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/sakuralive-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "xcams",
+      "name": "Xcams",
+      "format": "European Freemium / Private Hybrid",
+      "reviewUrl": "https://camranks.com/reviews/xcams/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/xcams-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/xcams-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "olecams",
+      "name": "OléCams",
+      "format": "Spanish / LATAM Freemium",
+      "reviewUrl": "https://camranks.com/reviews/olecams/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/olecams-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "Capitalnex or Nexuscap",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://www.olecams.com/en/faq",
+        "evidenceUrl": "https://camranks.com/trust/olecams-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "royal-cams",
+      "name": "Royal Cams",
+      "format": "Freemium Public + Private",
+      "reviewUrl": "https://camranks.com/reviews/royal-cams/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/royal-cams-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "EPOCH; SegPay",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://royalcams.com/user-faq",
+        "evidenceUrl": "https://camranks.com/trust/royal-cams-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "sinparty",
+      "name": "SinParty",
+      "format": "Creator / Live Hybrid",
+      "reviewUrl": "https://camranks.com/reviews/sinparty/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/sinparty-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "SP Billing",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://sinparty.com/faqs",
+        "evidenceUrl": "https://camranks.com/trust/sinparty-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "sexymeet",
+      "name": "Sexymeet.tv",
+      "format": "Freemium Live",
+      "reviewUrl": "https://camranks.com/reviews/sexymeet/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/sexymeet-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/sexymeet-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "xtease",
+      "name": "Xtease",
+      "format": "Freemium Live",
+      "reviewUrl": "https://camranks.com/reviews/xtease/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/xtease-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/xtease-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "visit-x",
+      "name": "Visit-X",
+      "format": "German premium private",
+      "reviewUrl": "https://camranks.com/reviews/visit-x/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/visit-x-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/visit-x-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "oranum",
+      "name": "Oranum",
+      "format": "Psychic / spiritual live",
+      "reviewUrl": "https://camranks.com/reviews/oranum/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/oranum-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "JWS Bill",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://jwsbill.com/faq",
+        "evidenceUrl": "https://camranks.com/trust/oranum-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "filf",
+      "name": "FILF",
+      "format": "MILF live",
+      "reviewUrl": "https://camranks.com/reviews/filf/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/filf-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/filf-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "dxlive",
+      "name": "DxLive",
+      "format": "Japan live (DXLIVE)",
+      "reviewUrl": "https://camranks.com/reviews/dxlive/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/dxlive-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/dxlive-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "maturecams",
+      "name": "Maturecams.tv",
+      "format": "Mature live",
+      "reviewUrl": "https://camranks.com/reviews/maturecams/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/maturecams-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/maturecams-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "beianrufsex",
+      "name": "BeiAnrufSex",
+      "format": "German phone sex",
+      "reviewUrl": "https://camranks.com/reviews/beianrufsex/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/beianrufsex-tokens/#price-evidence",
+        "unit": "minute",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/beianrufsex-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "xlovegay",
+      "name": "XLoveGay",
+      "format": "Gay premium private",
+      "reviewUrl": "https://camranks.com/reviews/xlovegay/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/xlovegay-tokens/#price-evidence",
+        "unit": "credit",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "AC Webconnecting B.V.",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://www.xlovegay.com/en/credit/",
+        "evidenceUrl": "https://camranks.com/trust/xlovegay-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "royal-cams-gay",
+      "name": "Royal Cams Gay",
+      "format": "Gay freemium",
+      "reviewUrl": "https://camranks.com/reviews/royal-cams-gay/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/royal-cams-gay-tokens/#price-evidence",
+        "unit": "token",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "documented",
+        "descriptor": "EPOCH or SegPay",
+        "observedAt": "2026-09-21",
+        "sourceUrl": "https://gay.royalcams.com/user-faq",
+        "evidenceUrl": "https://camranks.com/trust/royal-cams-gay-billing-descriptor/"
+      }
+    },
+    {
+      "slug": "loyalfans",
+      "name": "LoyalFans",
+      "format": "Fan site / PPV / DMs — not live cam",
+      "reviewUrl": "https://camranks.com/reviews/loyalfans/",
+      "pricing": {
+        "status": "not_logged",
+        "observedAt": null,
+        "country": null,
+        "paymentMethod": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/pricing/loyalfans-tokens/#price-evidence",
+        "unit": "usd",
+        "currency": null,
+        "packs": []
+      },
+      "billing": {
+        "status": "not_logged",
+        "descriptor": null,
+        "observedAt": null,
+        "sourceUrl": null,
+        "evidenceUrl": "https://camranks.com/trust/loyalfans-billing-descriptor/"
+      }
+    }
+  ]
+}
